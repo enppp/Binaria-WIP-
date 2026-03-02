@@ -7,3 +7,4 @@ This is a long-term project I started just for fun
 1. HTML
 2. CSS
 3. JS
+
