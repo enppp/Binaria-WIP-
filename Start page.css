@@ -1,0 +1,77 @@
+/* Main Elements */
+
+h1 {
+  color: white;
+  font-size: 20px;
+  font-family: "IBM Plex", sans-serif;
+}  
+
+body {
+  font-family: "IBM Plex", sans-serif;
+  font-style: bold;
+  font-size: 25px;
+  color: white;
+  background: black;
+}
+
+p {
+  font-family: "IBM Plex", sans-serif;
+  font-style: bold;
+  font-size: 30px;
+  color: orange;
+}
+
+
+/* IDs */
+
+#button1{
+  font-family: "IBM Plex", sans-serif;
+  font-size: 25px;
+  color: #33FF33;
+  background-color: black;
+  border-color: #33FF33;
+  width: 500px;
+  height: 50px
+}
+
+#button2{
+  font-family: "IBM Plex", sans-serif;
+  font-size: 25px;
+  color: #33FF33;
+  background-color: black;
+  border-color: #33FF33;
+  width: 500px;
+  height: 50px
+}
+
+/* CLASSES */
+
+.bg1 {
+  background-color: black;
+}
+
+.button1{
+  font-family: "IBM Plex", sans-serif;
+  color: #33FF33;
+  background-color: black;
+  border-color: #33FF33;
+  width: 100px;
+  padding-bottom; 50px
+}
+
+.button2{
+  font-family: "IBM Plex", sans-serif;
+  color: #33FF33;
+  background-color: black;
+  border-color: #33FF33;
+  width: 100px;
+  padding-bottom; 50px
+}
+
+.textDivOne {
+  color: #33FF33;
+}
+
+.textDivThree {
+  color: #33FF33;
+}
